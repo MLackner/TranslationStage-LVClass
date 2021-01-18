@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+<<<<<<< HEAD
 		<Item Name="Abstract TranslationStage.lvclass" Type="LVClass" URL="../Abstract TranslationStage/Abstract TranslationStage.lvclass"/>
 		<Item Name="ESP301.lvclass" Type="LVClass" URL="../ESP301_class/ESP301.lvclass"/>
 		<Item Name="Simulated-TS.lvclass" Type="LVClass" URL="../Simulated_class/Simulated-TS.lvclass"/>
@@ -26,6 +27,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
+=======
+		<Item Name="Dependencies" Type="Dependencies"/>
+>>>>>>> 617b36f58460f1e76c6752f178f7c87aa0d9c9f3
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
